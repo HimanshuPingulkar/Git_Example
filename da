@@ -1,0 +1,29 @@
+[33mcommit 55f1908cf2c5e4286b0bf1a8c8a46b63dc0eaf43[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Himanshu <himanshupingulkar@gmail.com>
+Date:   Sun May 31 11:31:13 2020 +0530
+
+    created song txt file
+
+[33mcommit 43233853be06f83054376d72a139442803294b0a[m
+Author: Himanshu <himanshupingulkar@gmail.com>
+Date:   Sat May 30 11:46:55 2020 +0530
+
+    Change background-color
+
+[33mcommit e37eb4f2ccfa99d2ef47d1c08703c7424689693f[m
+Author: Himanshu <himanshupingulkar@gmail.com>
+Date:   Sat May 30 11:44:44 2020 +0530
+
+    Add basic styles
+
+[33mcommit 8063723cc9e4fd6450e13dcc799b631ec2687122[m
+Author: Himanshu <himanshupingulkar@gmail.com>
+Date:   Sat May 30 11:40:15 2020 +0530
+
+    Add app logic
+
+[33mcommit ff230c4845d63e61faf0bfb2ec5cc9a81366d7be[m
+Author: Himanshu <himanshupingulkar@gmail.com>
+Date:   Sat May 30 11:28:50 2020 +0530
+
+    Created idex.html
